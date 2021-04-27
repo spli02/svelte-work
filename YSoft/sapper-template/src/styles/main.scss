@@ -1,0 +1,40 @@
+:root {
+  --red: #fb4a46;
+  --darkRed: #bd0703;
+
+  --blue: #5fdeff;
+  --darkBlue: #00bff0;
+
+  --green: #4dc824;
+
+  --orange: #ff6600;
+  --darkOrange: #fb4a46;
+
+  --borderLightGray: #e2e4e5;
+  --borderGray: #b2b1b1;
+
+  --lightGray: #7c8ca6;
+  --gray: #8a95a5;
+  --darkGray: #354052;
+
+  --disabledGray: #bebebf;
+  --barGray: #edf0f2;
+
+  --lightBlack: #636778;
+  --black: #333333;
+
+  --white: #fff;
+
+  --font-size-default: 13px;
+  --font-size-big: 18px;
+  --font-size-biggest: 22px;
+}
+
+*::-webkit-scrollbar {
+  display: none;
+}
+
+@import 'fonts.scss';
+
+// MEMO: unused
+// @import 'utils.scss';

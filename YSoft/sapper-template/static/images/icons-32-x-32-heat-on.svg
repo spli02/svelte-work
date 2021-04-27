@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="33" viewBox="0 0 32 33">
+    <g fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g stroke="#FFF" stroke-width="2">
+            <g>
+                <g>
+                    <path d="M3.2 30.968s3.2-4.346 3.2-7.243c0-2.897-3.2-3.862-3.2-7.242s3.2-2.897 3.2-7.243c0-4.345-4.267-8.208-4.267-8.208" transform="translate(-243 -195) translate(20 146.81) translate(223 48.309)"/>
+                    <path stroke-linejoin="round" d="M1.067 6.194L2.133 1.032 7.467 2.065" transform="translate(-243 -195) translate(20 146.81) translate(223 48.309)"/>
+                    <path d="M14.933 30.968s3.2-4.346 3.2-7.243c0-2.897-3.2-3.862-3.2-7.242s3.2-2.897 3.2-7.243c0-4.345-4.266-8.208-4.266-8.208" transform="translate(-243 -195) translate(20 146.81) translate(223 48.309)"/>
+                    <path stroke-linejoin="round" d="M12.8 6.194L13.867 1.032 19.2 2.065" transform="translate(-243 -195) translate(20 146.81) translate(223 48.309)"/>
+                    <path d="M26.667 30.968s3.2-4.346 3.2-7.243c0-2.897-3.2-3.862-3.2-7.242s3.2-2.897 3.2-7.243c0-4.345-4.267-8.208-4.267-8.208" transform="translate(-243 -195) translate(20 146.81) translate(223 48.309)"/>
+                    <path stroke-linejoin="round" d="M24.533 6.194L25.6 1.032 30.933 2.065" transform="translate(-243 -195) translate(20 146.81) translate(223 48.309)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

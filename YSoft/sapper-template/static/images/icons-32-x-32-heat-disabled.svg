@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="33" viewBox="0 0 32 33">
+    <g fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g stroke="#BEBEBF" stroke-width="2">
+            <g>
+                <g>
+                    <g>
+                        <path d="M3 30s3-4.21 3-7.016c0-2.807-3-3.742-3-7.016s3-2.807 3-7.016C6 4.742 2 1 2 1" transform="translate(-243 -195) translate(20 146.81) translate(223 48.309)"/>
+                        <path stroke-linejoin="round" d="M1 6L2 1 7 2" transform="translate(-243 -195) translate(20 146.81) translate(223 48.309)"/>
+                        <path d="M14 30s3-4.21 3-7.016c0-2.807-3-3.742-3-7.016s3-2.807 3-7.016C17 4.742 13 1 13 1" transform="translate(-243 -195) translate(20 146.81) translate(223 48.309)"/>
+                        <path stroke-linejoin="round" d="M12 6L13 1 18 2" transform="translate(-243 -195) translate(20 146.81) translate(223 48.309)"/>
+                        <path d="M25 30s3-4.21 3-7.016c0-2.807-3-3.742-3-7.016s3-2.807 3-7.016C28 4.742 24 1 24 1" transform="translate(-243 -195) translate(20 146.81) translate(223 48.309)"/>
+                        <path stroke-linejoin="round" d="M23 6L24 1 29 2" transform="translate(-243 -195) translate(20 146.81) translate(223 48.309)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
